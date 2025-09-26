@@ -2,7 +2,7 @@
 
 ---
 
-<p style="text-align: center"><a href="./output/ebook-ssh.pdf"><img src="./assets/ebook-portas-e-tuneis.png" style="width: 200px"></a></p>
+<p align="center"><a href="./output/ebook-ssh.pdf"><img src="./assets/ebook-portas-e-tuneis.png" style="width: 200px"></a></p>
 
 ## 📘 Mini ebook sobre SSH e Port Forwarding 
 Escrito como parte de um desafio do bootcamp **Fundamentos de IA Generativa** ([DIO](https://web.dio.me/) + [Santander](https://www.santanderopenacademy.com/pt_br/index.html) + [Universia](https://www.universia.net/br/home)).
